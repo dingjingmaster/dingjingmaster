@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=c_library)](https://github.com/dingjingmaster/c_library)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=iso-integrated)](https://github.com/dingjingmaster/iso-integrated)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=iyuedu_web)](https://github.com/dingjingmaster/iyuedu_web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=service)](https://github.com/dingjingmaster/service)
+
