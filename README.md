@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![DingJing's GitHub stats](https://github-readme-stats.vercel.app/api?username=dingjingmaster&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dingjingmaster&langs_count=10)](https://github.com/dingjingmaster)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dingjingmaster&layout=compact)](https://github.com/dingjingmaster)
 
