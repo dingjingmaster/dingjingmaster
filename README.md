@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![DingJing's GitHub stats](https://github-readme-stats.vercel.app/api?username=dingjingmaster&show_icons=true&theme=radical)
+![DingJing's GitHub stats](https://github-readme-stats.vercel.app/api?username=dingjingmaster&show_icons=true&theme=radical&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dingjingmaster&layout=compact)](https://github.com/dingjingmaster)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dingjingmaster&langs_count=20)
