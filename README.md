@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=service)](https://github.com/dingjingmaster/service)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=demo)](https://github.com/dingjingmaster/demo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=linux-dependency)](https://github.com/dingjingmaster/linux-dependency)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=linux-config)](https://github.com/dingjingmaster/linux-config)
