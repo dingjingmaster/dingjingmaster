@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=linux-config)](https://github.com/dingjingmaster/linux-config)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=graceful-grub)](https://github.com/dingjingmaster/graceful-grub)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=graceful-partition)](https://github.com/dingjingmaster/graceful-partition)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=graceful-kernel)](https://github.com/dingjingmaster/graceful-kernel)
