@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=learn-kernel)](https://github.com/dingjingmaster/learn-kernel)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=graceful-grub)](https://github.com/dingjingmaster/graceful-grub)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=graceful-bootloader)](https://github.com/dingjingmaster/graceful-bootloader)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=c_library)](https://github.com/dingjingmaster/c_library)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=mini-linux-kernel-x86)](https://github.com/dingjingmaster/mini-linux-kernel-x86)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=linux-config)](https://github.com/dingjingmaster/linux-config)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=iso-integrated)](https://github.com/dingjingmaster/iso-integrated)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=iyuedu_web)](https://github.com/dingjingmaster/iyuedu_web)
