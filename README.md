@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=iyuedu_web)](https://github.com/dingjingmaster/iyuedu_web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=novel_spider)](https://github.com/dingjingmaster/novel_spider)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=demo)](https://github.com/dingjingmaster/demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dingjingmaster&repo=kernel-0.0.0)](https://github.com/dingjingmaster/kernel-0.0.0)
