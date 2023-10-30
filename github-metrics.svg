@@ -505,17 +505,9 @@
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
                     </div>
-                    <div class="organization contribution s ">
+                    <div class="organization contribution  ">
                         <img class="organization avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaQAAAGkCAIAAADxLsZiAAAACXBIWXMAAAsTAAALEwEAmpwYAAALQUlEQVR4nO3Wwa3rOBBE0Un8J8gFY1EIs/PWAGW8VqnOgQMwWs1L/ncBFPhv+g8A/AWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqPB3sVv/tt/zJ3C9y/g8/dZjtk7srKPY2YHdcMWKnUUXOzuwxe6XvOcjJnC9y/g8/dZjts7LzjqKnR3YDVes2Fl0sbMDW+x+yXs+YgLXu4zP0289Zuu87Kyj2NmB3XDFip1FFzs7sMXul7znIyZwvcv4PP3WY7bOy846ip0d2A1XrNhZdLGzA1vsfsl7PmIC17uMz9NvPWbrvOyso9jZgd1wxYqdRRc7O7DF7pe85yMmcL3L+Dz91mO2zsvOOoqdHdgNV6zYWXSxswNb7H7Jez5iAte7jM/Tbz1m67zsrKPY2YHdcMWKnUUXOzuwxe6XvOcjJnC9y/g8/dZjts7LzjqKnR3YDVes2Fl0sbMDW+x+yXs+YgLXu4zP0+85W+dlZx3Fzg7shitW7Cy62NmBLXa/5D0fMYHrXcbn6bces3VedtZR7OzAbrhixc6ii50d2GL3S97zERO43mV8nn7rMVvnZWcdxc4O7IYrVuwsutjZgS12v+Q9HzGB613G5+m3HrN1XnbWUezswG64YsXOooudHdhi90ve8xETuN5lfJ5+6zFb52VnHcXODuyGK1bsLLrY2YEtdr/kPR8xgetdxufptx6zdV521lHs7MBuuGLFzqKLnR3YYvdL3vMRE7jeZXyefusxW+dlZx3Fzg7shitW7Cy62NmBLXa/5D0fMYHrXcbn6bces3VedtZR7OzAbrhixc6ii50d2GL3S97zERO43mV8nn7rMVvnZWcdxc4O7IYrVuwsutjZAbH7Ke/5iAlc7zI+T7/1mK3zsrOOYmcHdsMVK3YWXezswBa7X/Kej5jA9S7j8/Rbj9k6LzvrKHZ2YDdcsWJn0cXODmyx+yXv+YgJXO8yPk+/9Zit87KzjmJnB3bDFSt2Fl3s7MAWu1/yno+YwPUu4/P0W4/ZOi876yh2dmA3XLFiZ9HFzg5ssfsl7/mICVzvMj5Pv/WYrfOys45iZwd2wxUrdhZd7OzAFrtf8p6PmMD1LuPz9FuP2TovO+sodnZgN1yxYmfRxc4ObLH7Je/5iAlc7zI+T7/1mK3zsrOOJmACu+GK/bvYvY9L2wRenIb3EbtzjroJiF0QsTvnqJuA2AURu3OOugmIXRCxO+eom4DYBRG7c466CYhdELE756ibgNgFEbtzjroJiF0QsTvnqJuA2AURu3OOugmIXRCxO+eom4DYBRG7c466CYhdELE756ibgNgFEbtzjroJiF0QsTvnqJuA2AURu3OOugmIXRCxO+eom4DYBRG7c466CYhdELE756ibgNgFEbtzjroJiF0QsTvnqJuA2AURu3OOugmIXRCxO+eom4DYBRG7c466CYhdELE756ibgNgFEbtzjroJiF0QsTvnqJuA2AURu3OOugmIXRCxO+eom4DYBRG7c466CYhdELE756ibgNgFEbtzjroJiF0QsTvnqJuA2AURu3OOugmIXRCxO+eom4DYBRG7c466CYhdELE756ibgNgFEbtzjroJiF0QsTvnqJuA2AURu3OOugmIXRCxO+eom4DYBRG7c466CYhdELE756ibgNgFEbtzjroJiF0QsTvnqJuA2AURu3OOugmIXRCxO+eom4DYBRG7c466CYhdELE756ibgNgFEbtzjroJiF0QsTvnqJuA2AURu3OOugmIXRCxO+eom4DYBRG7c466CYhdELE756ibgNgFEbtzjroJiF0QsTvnqJuA2AURu3OOugmIXRCxO+eom4DYBRG7c466CYhdELE756ibgNgFEbtzjroJiF0QsTvnqJuA2AURu3OOugmIXRCxO+eom4DYBRG7c466CYhdELE756ibgNgFEbtzjroJiF0QsTvnqJuA2AURu3OOugmIXRCxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDugwt/Fbv3b7/v92fTAObpJ7MSOJOMX/Ip9NIhdwEeCj/EwLbH7anyguR8JnKP7vOzEjiTjF/yKfTSIXcBHgo/xMC2x+2p8oLkfCZyj+7zsxI4k4xf8in00iF3AR4KP8TAtsftqfKC5Hwmco/u87MSOJOMX/Ip9NIhdwEeCj/EwLbH7anyguR8JnKP7vOzEjiTjF/yKfTSIXcBHgo/xMC2x+2p8oLkfCZyj+7zsxI4k4xf8in00iF3AR4KP8TAtsftqfKC5Hwmco/u87MSOJOMX/Ip9NIhdwEeCj/EwLbH7anyguR8JnKP7vOzEjiTjF/yKfTSIXcBHgo/xMC2x+2p8oLkfCZyj+7zsxI4k4xf8in00iF3AR4KP8TAtsftqfKC5Hwmco/u87MSOJOMX/Ip9NIhdwEeCj/EwLbH7anyguR8JnKP7vOzEjiTjF/yKfTSIXcBHgo/xMC2x+2p8oLkfCZyj+7zsxI4k4xf8in00iF3AR4KP8TAtsftqfKC5Hwmco/u87MSOJOMX/Ip9NIhdwEeCj/EwLbH7anyguR8JnKP7vOzEjiTjF/yKfTSIXcBHgo/xMC2x+2p8oLkfCZyj+7zsxI4k4xf8in00iF3AR4KP8TAtsftqfKC5Hwmco/u87MSOJOMX/Ip9NIhdwEeCj/EwLbH7anyguR8JnKP7vOzEjiTjF/yKfTSIXcBHgo/xMC2x+2p8oLkfCZyj+7zsxI4k4xf8in00iF3AR4KP8TAtsftqfKC5Hwmco/u87MSOJOMX/Ip9NIhdwEeCj/EwLbH7anyguR8JnKP7vOzEjiTjF/yKfTSIXcBHgo/xMC2x+2p8oLkfCZyj+7zsxI4k4xf8in00iF3AR4KP8TAtsftqfKC5Hwmco/u87MSOJOMX/Ip9NIhdwEeCj/EwLbH7anyguR8JnKP7vOzEjiTjF/yKfTSIXcBHgo/xMC2x+2p8oLkfCZyj+7zsxI4k4xf8in00/F3sAAaJHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHVBB7IAKYgdUEDuggtgBFcQOqCB2QAWxAyqIHXA1+B8OkSma3yA09gAAAABJRU5ErkJggg==" width="16" height="16" />
                         <span class="name">@learn-kernel/tiny-kernel</span>
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="16" height="16" class="gauge">
-                            <circle class="gauge-base" r="12.5" cx="15" cy="15"/>
-                            <circle class="gauge-arc" transform="rotate(-90 15 15)" r="12.5" cx="15" cy="15" stroke-dasharray="255.88888888888889 329"/>
-                            <text x="15" y="15" dominant-baseline="central">21</text>
-                        </svg>
-                        <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                        </svg>
                     </div>
                 </div>
             </section>
@@ -591,8 +583,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="325.71 329"/>
-                                <text x="60" y="60" dominant-baseline="central">99</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
+                                <text x="60" y="60" dominant-baseline="central">100</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -678,19 +670,19 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.44 s</div>
+                        <div class="audit text">0.41 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.58 s</div>
+                        <div class="audit text">0.49 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.01</div>
+                        <div class="audit text">0.04</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -720,19 +712,19 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.44 s</div>
+                        <div class="audit text">0.41 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.58 s</div>
+                        <div class="audit text">0.49 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.01</div>
+                        <div class="audit text">0.04</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -745,12 +737,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 50 commits)</small>
+                    <small class="h-details">(computed from last 49 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 19.8 characters per line of code written</li>
+                        <li>Has approximately 19.7 characters per line of code written</li>
                         <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -796,8 +788,8 @@
                             15
                         </div>
                         <div class="entry">
-                            <span class="value">7</span>
-                            <div class="bar" style="height: 31.818181818181817px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">6</span>
+                            <div class="bar" style="height: 27.27272727272727px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             16
                         </div>
                         <div class="entry">
@@ -822,8 +814,8 @@
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">6</span>
-                                <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">5</span>
+                                <div class="bar" style="height: 13.88888888888889px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
@@ -858,37 +850,37 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 8.336091257965707%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <div class="bar" style="width: 8.466919669397845%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C++</span>
-                                <div class="bar" style="width: 7.73756293349294%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <div class="bar" style="width: 6.6034606840013765%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 4.818153012005774%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.893770142995713%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 2.0371087561173113%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.0690795796399852%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Makefile</span>
-                                <div class="bar" style="width: 1.0917860789353238%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.1089208047811259%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Vim Script</span>
-                                <div class="bar" style="width: 0.6953490828433616%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.7062620410972987%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CMake</span>
-                                <div class="bar" style="width: 0.4510086962644791%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.45808692387121%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -2221,7 +2213,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 27 Oct 2023, 17:38:02
+                            On 27 Oct 2023, 17:28:28
                         </div>
                     </section>
                 </div>
@@ -2231,14 +2223,14 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            [待完善] CRC和数学函数
+                            [待完成] bitmap操作
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">a4a5c7f3</span>
-                            <span class="code">Documentation/kernel/api/crc-and-math.md</span>
+                            <span class="code">ca8fa41b</span>
+                            <span class="code">Documentation/kernel/api/bitmap-operations.md</span>
                             <span class="code">
                                 <span class="snippet additions">++1</span>
                                 <span class="snippet deletions">--0</span>
@@ -2249,7 +2241,7 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"># CRC和数学相关函数</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"># Bitmap 操作</span></span></code>
                         </div>
                     </section>
                 </div>
@@ -2401,7 +2393,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Oct 2023, 16:14:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Oct 2023, 17:11:39 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
